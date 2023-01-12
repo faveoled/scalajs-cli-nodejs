@@ -12,13 +12,3 @@ lazy val hello = (project in file("."))
     ),
     stOutputPackage := "typings"
   )
-
-
-// This is an application with a main method
-
-//
-
-// Add support for the DOM in `run` and `test`
-//jsEnv := new org.scalajs.jsenv.jsdomnodejs.JSDOMNodeJSEnv()
-
-// uTest settings
