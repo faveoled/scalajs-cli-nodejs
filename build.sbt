@@ -12,3 +12,4 @@ lazy val hello = (project in file("."))
     ),
     stOutputPackage := "typings"
   )
+
